@@ -8,7 +8,7 @@ contact open.thrust@gmail.com
 
 or 
 
-use the forum: x
+use the forum: https://github.com/orgs/Alliance-Open-Thrust/discussions
 
 
 
